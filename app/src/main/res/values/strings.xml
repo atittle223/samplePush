@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ID Information</string>
+
+    //added String titled: hint_id with a value of "please enter your ID number"
+    <string name="hint_id">please enter your ID number</string>
+
+    //added String titled: submit_button with a value of "Submit"
+    <string name="submit_button">Submit</string>
+
+    //added String titles: "textView" with a value of "Your Information will be displayed here"
+    <string name="textView">Your Information will be displayed here</string>
+
+</resources>
